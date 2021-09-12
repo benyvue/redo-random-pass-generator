@@ -10,4 +10,4 @@ html, css, and javascript
 
 ![Password-Generator-active](./develop/images/password-generator-in-action.png)
 
-https://benyvue.github.io/new-random-pass-generator/
+https://benyvue.github.io/redo-random-pass-generator/
